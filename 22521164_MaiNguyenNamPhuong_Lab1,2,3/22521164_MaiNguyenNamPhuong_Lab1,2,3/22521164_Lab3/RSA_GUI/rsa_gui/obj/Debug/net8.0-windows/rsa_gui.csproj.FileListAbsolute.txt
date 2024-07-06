@@ -1,0 +1,17 @@
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\bin\Debug\net8.0-windows\rsa_gui.exe
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\bin\Debug\net8.0-windows\rsa_gui.deps.json
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\bin\Debug\net8.0-windows\rsa_gui.runtimeconfig.json
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\bin\Debug\net8.0-windows\rsa_gui.dll
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\bin\Debug\net8.0-windows\rsa_gui.pdb
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.rsa_gui.resources
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.csproj.GenerateResource.cache
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.AssemblyInfoInputs.cache
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.AssemblyInfo.cs
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.csproj.CoreCompileInputs.cache
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.sourcelink.json
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.dll
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\refint\rsa_gui.dll
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.pdb
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\rsa_gui.genruntimeconfig.cache
+C:\Users\huy\Desktop\22520541_Lab3\RSA_GUI\rsa_gui\obj\Debug\net8.0-windows\ref\rsa_gui.dll
